@@ -1,2 +1,2 @@
-Projekt Paralizace - https://github.com/DanOujesky/ImageOptimizer
+Projekt Paralizace - https://github.com/DanOujesky/ImageOptimizer       
 Projekt RDBMS - https://github.com/DanOujesky/Eshop-Project
